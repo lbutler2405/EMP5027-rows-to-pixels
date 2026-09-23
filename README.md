@@ -26,7 +26,7 @@ Three self-contained notebooks, each applying the same core toolkit, including a
 
 | Notebook | Application | Dataset | Open in Colab |
 |---|---|---|---|
-| **6a** | Satellite land-cover classification | [EuroSAT](https://github.com/phelber/EuroSAT). Sentinel-2 patches, 10 land-use classes | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/lbutler2405/rows-to-pixels/blob/main/notebooks/practical-6-deep-learning/EMP5027-Lecture-6a-Satellite-Land-Cover-Classification-EuroSAT.ipynb) |
+| **6a** | Satellite land-cover classification | [EuroSAT](https://github.com/phelber/EuroSAT). Sentinel-2 patches, 10 land-use classes | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/lbutler2405/rows-to-pixels/blob/main/notebooks/practical-6-deep-learning/EMP5027-Lecture-6a-Satellite-Land-Cover-Classification-EuroSAT.ipynb) | 
 | **6b** | Plant disease diagnosis | [PlantVillage](https://github.com/spMohanty/PlantVillage-Dataset). Leaf photos, healthy vs. diseased | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/lbutler2405/rows-to-pixels/blob/main/notebooks/practical-6-deep-learning/EMP5027-Lecture-6b-Plant-Disease-Diagnosis-PlantVillage.ipynb) |
 | **6c** | Invasive weed species identification | [DeepWeeds](https://github.com/AlexOlsen/DeepWeeds). Real field photos, imbalanced classes | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/lbutler2405/rows-to-pixels/blob/main/notebooks/practical-6-deep-learning/EMP5027-Lecture-6c-Weed-Species-Identification-DeepWeeds.ipynb) |
 
