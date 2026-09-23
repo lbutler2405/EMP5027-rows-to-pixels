@@ -39,7 +39,7 @@ Each notebook works through the same progression:
 5. **Evaluate properly**: classification report and confusion matrix, not accuracy alone.
 6. **Explain predictions with Grad-CAM**, checking whether the model is actually looking at the relevant part of the image.
 
-6c additionally covers **class imbalance** — real field data rarely arrives balanced, so this notebook handles it directly with class weighting and balanced accuracy, rather than assuming it away.
+6c additionally covers **class imbalance**. Real field data rarely arrives balanced, so this notebook handles it directly with class weighting and balanced accuracy, rather than assuming it away.
 
 ## Running the notebooks
 
@@ -52,7 +52,7 @@ pip install -r requirements.txt
 jupyter notebook
 ```
 
-Colab sessions are temporary — if you want to keep a trained model or exported results, mount Google Drive or download the file before the session ends (both are covered in each notebook's setup cell).
+Colab sessions are temporary. If you want to keep a trained model or exported results, mount Google Drive or download the file before the session ends (both are covered in each notebook's setup cell).
 
 ## Repository structure
 
