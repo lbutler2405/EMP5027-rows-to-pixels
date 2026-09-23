@@ -5,7 +5,7 @@ Python for environmental data science. EMP5027, MSc Earth Science, University of
 
 Course notebooks for **EMP5027: Methods in Data Analysis & Quality Assurance**, MSc Earth Science, University of Malta.
 
-The module teaches Python for environmental data science end to end: starting from core language and data-handling skills, through statistical analysis and geospatial modelling, and finishing with deep learning on environmental imagery. The dataset used most often along the way is Palmer Penguins — hence *rows* (tabular data, where the course starts) *to pixels* (image data, where it ends up).
+The module teaches Python for environmental data science end to end: starting from core language and data-handling skills, through statistical analysis and geospatial modelling, and finishing with deep learning on environmental imagery. The dataset used most often along the way is Palmer Penguins, hence *rows* (tabular data, where the course starts) *to pixels* (image data, where it ends up).
 
 ## Contents
 
@@ -20,7 +20,7 @@ The module teaches Python for environmental data science end to end: starting fr
 
 Practicals are being uploaded incrementally; deep learning (Practical 6) is complete and the current focus of this repository.
 
-## Practical 6 — Deep Learning
+## Practical 6: Deep Learning
 
 Three self-contained notebooks, each applying the same core toolkit, including a CNN trained from scratch, transfer learning with a pretrained backbone, and Grad-CAM for interpretability. This will apply to different environmental imaging problems. The notebooks are meant to be worked through in order, but each stands alone.
 
