@@ -32,7 +32,7 @@ Three self-contained notebooks, each applying the same core toolkit, including a
 
 Each notebook works through the same progression:
 
-1. **Load and explore** the dataset via `tensorflow_datasets` — no manual download or Kaggle account required.
+1. **Load and explore** the dataset via `tensorflow_datasets`. No manual download or Kaggle account required.
 2. **Build a `tf.data` pipeline**: resizing, normalisation, augmentation, batching.
 3. **Train a CNN from scratch**, to see what a network learns with no prior knowledge.
 4. **Apply transfer learning**, fine-tuning a pretrained ImageNet backbone (MobileNetV2), usually the biggest single improvement on a modest dataset.
