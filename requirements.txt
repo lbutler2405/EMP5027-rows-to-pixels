@@ -1,0 +1,32 @@
+# Core
+numpy
+pandas
+matplotlib
+seaborn
+scipy
+scikit-learn
+statsmodels
+openpyxl
+plotly
+
+# Practical 3 and 4 (cleaning, EDA, statistics)
+missingno
+fancyimpute
+pygam
+pymannkendall
+
+# Practical 5 (geospatial) and 5b (species distribution modelling)
+geopandas
+shapely
+pyproj
+rasterio
+rioxarray
+xarray
+affine
+contextily
+shap
+ipywidgets
+
+# Practical 6 (deep learning). See the Practical 6 setup notebook for GPU notes.
+tensorflow>=2.15
+tensorflow-datasets
