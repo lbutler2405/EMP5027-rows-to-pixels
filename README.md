@@ -15,7 +15,6 @@ The module teaches Python for environmental data science end to end, from core l
 | 3b | Time-aware data and joins | Time series, multi-station data, joins | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/lbutler2405/EMP5027-rows-to-pixels/blob/main/notebooks/practical-3b-time-aware-data-joins/EMP5027-Lecture-3b-Time-Aware-Data-and-Joins.ipynb) |
 | 4 | Exploratory data analysis and statistics | EDA, statistical testing and modelling, spatial plots | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/lbutler2405/EMP5027-rows-to-pixels/blob/main/notebooks/practical-4-eda-stats/EMP5027-Lecture-4-EDA-and-Stats.ipynb) |
 | 5 | Geospatial data fundamentals | Vector and raster data for environmental science | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/lbutler2405/EMP5027-rows-to-pixels/blob/main/notebooks/practical-5-geospatial-fundamentals/EMP5027-Lecture-5-Geospatial-Data-for-Environmental-Science.ipynb) |
-| 5b | Species distribution modelling | Atlantic sturgeon habitat suitability, four ML models, ensembling and explainable AI. **Run locally, needs the data download** | [practical-5b-sdm-sturgeon](notebooks/practical-5b-sdm-sturgeon/) |
 | 6 | Deep learning | CNNs, transfer learning and Grad-CAM on environmental imagery | see below |
 
 ## Practical 5b: Species Distribution Modelling
